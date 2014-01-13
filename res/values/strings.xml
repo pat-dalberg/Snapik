@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Snapik</string>
+    <string name="voice_menu_trigger">snap a picture</string>
+
+</resources>
